@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card_height{
+    height: 120px;
+}
+.card_author{
+    font-size: 13px;
+    color: #9999;
+    letter-spacing: 0.2rem;
+}

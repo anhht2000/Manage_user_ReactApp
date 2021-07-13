@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"captain",
+        "phone":"0548781428",
+        "role":1,
+        "job":"employee"
+    },
+    {
+        "id":2,
+        "name":"iron",
+        "phone":"12345231",
+        "role":2,
+        "job":"employee"
+    },
+    {
+        "id":3,
+        "name":"spider",
+        "phone":"54232342",
+        "role":2,
+        "job":"employee"
+    },
+    {
+        "id":4,
+        "name":"wonder",
+        "phone":"98654657",
+        "role":3,
+        "job":"employee"
+    },
+    {
+        "id":5,
+        "name":"doctor",
+        "phone":"98654657",
+        "role":3,
+        "job":"employee"
+    }
+]
